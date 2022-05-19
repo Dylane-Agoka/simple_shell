@@ -1,7 +1,7 @@
-#simple_shell
+# simple_shell
 A a simple UNIX command interpreter.
 
-#Authors 
+# Authors 
 Dylane AGOKA (Dylane-Agoka)
 
 Mofu Bulaya (MofuBulaya01)
