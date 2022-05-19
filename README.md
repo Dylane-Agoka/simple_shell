@@ -1,5 +1,5 @@
 # simple_shell
-A a simple UNIX command interpreter.
+A simple UNIX command interpreter.
 
 # Authors 
 Dylane AGOKA (Dylane-Agoka)
